@@ -1,0 +1,15 @@
+{
+  "dht11": {
+    "humidity": 75,
+    "temperature": 27.6
+  },
+  "dht11-safe": {
+    "humidity-safe": 99,
+    "temperature-safe": 30
+  },
+  "mq135-safe": {
+    "ppm-safe": 10000
+  },
+  "ppm": 1317.14929,
+  "warning": false
+}
